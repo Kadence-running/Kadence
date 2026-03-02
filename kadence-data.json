@@ -1,0 +1,15 @@
+{
+  "subscribers": [
+    {
+      "id": 1,
+      "status": "inactive",
+      "plan": "free",
+      "created_at": "2026-03-02T14:14:37.192Z",
+      "updated_at": "2026-03-02T14:31:15.988Z",
+      "email": "test@example.com",
+      "stripe_customer_id": "cus_U4gc3PE8V0NBbm",
+      "paypal_order_id": "75D09450HP216371A"
+    }
+  ],
+  "payments": []
+}
